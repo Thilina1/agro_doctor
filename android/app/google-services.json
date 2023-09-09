@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "746770317661",
+    "project_id": "agrodoctor-app-3da2a",
+    "storage_bucket": "agrodoctor-app-3da2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746770317661:android:d190a8b0ae5a36a42568b4",
+        "android_client_info": {
+          "package_name": "com.example.agro_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746770317661-mck4ihf9abqvt6itf09jq1qpkvmadtli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agro_doctor",
+            "certificate_hash": "2627f631809a3d2e9edc1e7cc6363ae2e51844bb"
+          }
+        },
+        {
+          "client_id": "746770317661-6sg56biq1n9ue19aupif4evnlcq6dpe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYMZYDEPP-3SR-pkKpqpo4JdfgqgdMphw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746770317661-6sg56biq1n9ue19aupif4evnlcq6dpe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+0 Potato Early blight
+1 Potato healthy
+2 Potato Late blight
+3 Tomato Early blight
+4 Tomato healthy
+5 Tomato Late blight
+6 Tomato Septoria leaf spo
+7 Spider mites Two spotted spider mite
+8 Tomato Target Spot
+9 Tomato mosaic virus
+10 Tomato Yellow Leaf Curl Virus
