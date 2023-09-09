@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/Thilina1/agro_doctor/main/images/logoAD.png?token=GHSAT0AAAAAACHLJAZBDH3KRW3RFICRTMBOZH4EOCA
+
+![ic_launcher](https://github.com/Thilina1/agro_doctor/assets/25680169/bbc7d6b5-d2ac-4ee9-b5fd-3d9464fb8d3a)
 
 Agro Doctor is a crop advisory iOS & Android mobile application for farmers and gardeners. It can detect plant diseases, nutrient deficiencies affecting crops and pest damage using machine learning.
 
